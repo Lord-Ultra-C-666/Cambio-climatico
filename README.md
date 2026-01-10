@@ -1,82 +1,103 @@
-# 🌍 EcoPulse  
-### Conciencia climática personalizada impulsada por IA
+# 🌍💚 EcoBot — Discord Bot Ecológico 💚🌍
 
-EcoPulse es un proyecto desarrollado en el contexto de un **hackathon sobre el cambio climático**.  
-Su objetivo es transformar un problema global y abstracto en **impacto personal, comprensible y accionable** para las personas.
-
----
-
-## ❓ Problema
-
-El **cambio climático** es uno de los mayores desafíos de nuestra era.  
-Aunque existe abundante información científica, muchas personas:
-
-- No perciben el problema como algo cercano
-- No comprenden cómo les afecta directamente
-- No saben qué acciones concretas pueden tomar
-
-Esto genera indiferencia, desinformación y falta de acción.
+✨ *Un bot Simple que ayuda a salvar el planeta, una acción a la vez* ✨  
+Porque reciclar **sí** es lo Mejor ♻️😤
 
 ---
 
-## 💡 Solución Propuesta
+## 🌱 ¿Qué es EcoBot?
 
-**EcoPulse** es una plataforma que utiliza datos abiertos y análisis inteligente para **personalizar la información climática**, mostrando cómo el cambio climático afecta directamente a cada usuario y su entorno.
-
-La idea principal es simple:
-
-> *Las personas actúan cuando entienden cómo un problema global impacta su vida diaria.*
-
----
-
-## 🌱 ¿Qué hace EcoPulse?
-
-- Traduce datos climáticos complejos en información clara y accesible
-- Genera contenido personalizado como:
-  - Resúmenes explicativos
-  - Visualizaciones sencillas
-  - Mensajes educativos o memes informativos
-- Sugiere acciones pequeñas y realistas que el usuario puede aplicar
+EcoBot es un bot de Discord creado con **Python + discord.py** que:
+- 🌿 Promueve acciones ecológicas diarias
+- 📊 Cuenta el impacto de la comunidad
+- 😂 Suelta memes eco-friendly
+- 💚 Motiva a cuidar el planeta sin ser aburrido
 
 ---
 
-## 🌍 Impacto Social
+## ⚙️ Requisitos
 
-EcoPulse contribuye a inhibir el cambio climático al:
+🔧 Asegúrate de tener:
 
-- Aumentar la conciencia ambiental individual
-- Promover cambios de hábitos sostenibles
-- Facilitar la difusión del mensaje en redes sociales
-- Conectar educación, tecnología y cultura digital
+- 🐍 Python **3.9+**
+- 🤖 Un bot de Discord creado
+- 📦 Librerías:
+  - `discord.py`
+  - `python-dotenv`
 
-No busca culpar, sino **informar, motivar y empoderar**.
+Instalación rápida:
+```bash
+pip install discord.py python-dotenv
+```
+---
+
+## 🔑 Configuración
+📁 Crea un archivo .env en la raíz del proyecto:
+
+```bash
+DISCORD_TOKEN=TU_TOKEN_AQUI
+```
+
+⚠️ No compartas tu token o el planeta Explota 😭🌍💣
 
 ---
 
-## 🛠️ Alcance del Proyecto
+## ▶️ Cómo ejecutar
+🚀 Corre el bot con:
 
-Este proyecto se centra en:
-- La **idea**
-- El **impacto**
-- La **conciencia climática**
+```bash
+python main.py
+```
 
-Los aspectos técnicos se desarrollarán progresivamente durante el hackathon.
+Si ves esto, todo salió bien:
 
----
-
-## 🚀 Objetivo Final
-
-Crear una solución accesible, creativa y útil que ayude a las personas a entender el cambio climático como un problema **presente, cercano y evitable si actuamos a tiempo**.
+```bash
+Conectado como EcoBot 💚
+```
 
 ---
 
-## 📚 Fuentes de Información
+## 🤖 Comandos disponibles
 
-- Organización de las Naciones Unidas – Crisis Climática  
-- Organización de las Naciones Unidas – Causas y efectos del cambio climático  
+- !accion = Registra una acción ecológica
+- !impacto	= Muestra el impacto total
+- !eco_meme	= Meme ecológico random 😂
+- !eco_help	= Lista de comandos
 
 ---
 
-## ✨ Hackathon Project
+## 📊 Impacto comunitario
 
-Este proyecto fue ideado como parte de una competición de desarrollo con tiempo limitado, fomentando la creatividad, el trabajo en equipo y el impacto social.
+Cada vez que alguien usa !accion:
+
+- ♻️ Se suma una acción ecológica
+
+- 🌍 El contador comunitario aumenta
+
+- 💚 El planeta sonríe (un poquito)
+
+---
+
+## Ideas futuras (✨ To-Do ✨)
+
+- 📅 Acciones ecológicas diarias random
+
+- 🏆 Ranking eco-friendly
+
+- 💾 Guardar impacto en archivo o base de datos
+
+- 🌎 Eventos especiales por fechas verdes
+
+## Créditos
+
+Creado Por Carlos Eduardo Gonzalez Treviño
+
+- Powered by Python 🐍 + Discord 🤖
+
+🌍 El planeta confía en ti… no lo decepciones 👀💚
+
+---
+
+## ✨#HackathonProject
+
+Este proyecto fue ideado como parte de una competición de desarrollo con tiempo limitado En @Kodland, fomentando la creatividad, el trabajo en equipo y el impacto social.
